@@ -1,3 +1,3 @@
 function Dog() {
-
+    var name;
 }
